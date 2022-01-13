@@ -32,7 +32,7 @@ feature_row:
     alt: "documentation"
     title: "Documentation"
     excerpt: "All algorithms and architecture are well documented with available examples."
-    url: "docs.ceresnavigation.org"
+    url: "https://docs.ceresnavigation.org"
     btn_class: "btn--primary"
     btn_label: "Documentation"  
 ---
