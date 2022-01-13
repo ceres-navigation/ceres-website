@@ -1,0 +1,19 @@
+title: CERES
+email: crgnam@buffalo.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  CERES Navigation Software
+baseurl: ""
+subtitle: "Celestial Estimation for Research, Exploration, and Science"
+url: ""
+github_username:  crgnam
+
+repository: "Ceres-Navigation/ceres"
+
+# Build settings
+markdown: kramdown
+include: ["_pages"]
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache

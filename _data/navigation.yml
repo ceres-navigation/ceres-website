@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: "/setup/quick-start-guide/"
+  - title: "Documentation"
+    url: "/documentation/"
+  - title: "About"
+    url: "/about/"
+
+quick-start-guide:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+      - title: "Child Page A4"
+        url: /
