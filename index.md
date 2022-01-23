@@ -6,11 +6,11 @@ header:
   subtitle: "ceres"
   overlay_color: "#5e616c"
   overlay_image: /assets/images/ceres_banner.png
-  # actions:
-  #   - label: "<i class='fas fa-download'></i> Install Latest Release"
-  #     url: "https://github.com/Ceres-Navigation/ceres/releases"
+  actions:
+    - label: "<i class='fas fa-download'></i> Install Latest Release on PyPI"
+      url: "https://pypi.org/project/ceres-nav/"
 excerpt: >
-  A software package for deep space navigation, gravity field estimation, and orbit determination.<br />
+  A software package for deep space navigation, mapping, and gravity field estimation.<br />
 feature_row:
   - image_path: /assets/images/opensource.png
     alt: "collaboration welcome"
