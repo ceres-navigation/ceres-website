@@ -16,25 +16,25 @@ feature_row:
     alt: "collaboration welcome"
     title: "Collaboration Welcome"
     excerpt: "Source code available for qualifying institutions and persons."
-    url: "https://gitlab.ceresnavigation.org"
+    url: "https://github.com/ceres-navigation/ceres"
     btn_class: "btn--primary"
-    btn_label: "CERES GitLab" 
+    btn_label: "CERES GitHub" 
 
   - image_path: /assets/images/capabilities.png
-    alt: "capabilities"
-    title: "Capabilities"
-    excerpt: "Capable of precision navigation for a wide range of orbital regimes."
-    url: "/about/"
+    alt: "download"
+    title: "Download"
+    excerpt: "Install the current release of CERES"
+    url: "https://pypi.org/project/ceres-nav/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Install"
 
   - image_path: /assets/images/documentation.png
     alt: "documentation"
     title: "Documentation"
     excerpt: "All algorithms and architecture are well documented with available examples."
-    url: "/documentation/"
+    url: "https://docs.ceresnavigation.org"
     btn_class: "btn--primary"
-    btn_label: "View Documentation"  
+    btn_label: "Documentation"  
 ---
 
 {% include feature_row %}
