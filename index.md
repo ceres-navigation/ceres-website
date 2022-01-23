@@ -21,9 +21,9 @@ feature_row:
     btn_label: "CERES GitHub" 
 
   - image_path: /assets/images/capabilities.png
-    alt: "download"
-    title: "Download"
-    excerpt: "Install the current release of CERES"
+    alt: "fundamentals"
+    title: "Fundamentals"
+    excerpt: "Interested in Spacecraft Navigation?  Start here."
     url: "https://pypi.org/project/ceres-nav/"
     btn_class: "btn--primary"
     btn_label: "Install"

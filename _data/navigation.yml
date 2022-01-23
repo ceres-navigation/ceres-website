@@ -3,11 +3,13 @@ main:
   - title: "Quick-Start Guide"
     url: "/setup/quick-start-guide/"
   - title: "Documentation"
-    url: "/documentation/"
+    url: "https://docs.ceresnavigation.org/"
+  - title: "Fundamentals"
+    url: /fundamentals/
   - title: "About"
     url: "/about/"
 
-quick-start-guide:
+fundamentals:
   - title: "Parent Page A"
     children:
       - title: "Child Page A1"
